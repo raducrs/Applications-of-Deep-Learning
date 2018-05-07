@@ -1,0 +1,21 @@
+
+# Datasets and images
+*.png
+*.jpg
+*.txt
+*.captions
+
+# Archives
+*.gz
+*.p
+
+# Model files
+*.h5
+*.hdf5
+
+# Audio
+*.mp3
+
+# tensorboard
+tensorboard/
+
