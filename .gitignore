@@ -19,3 +19,5 @@
 # tensorboard
 **/tensorboard/events.out.tfevents.*
 
+# jupyter checkpoints
+.ipynb_checkpoints
