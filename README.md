@@ -8,6 +8,14 @@
 - Populate the Test folder with your own images according to category
 - Install all the dependencies in the requirements 
 
+### Run demos
+- Download the saved pickle files
+- Set the DEMO flag to true
+
+### Retrain
+- Set the DEMO flag to false
+- Run and Wait :)
+
 ## Requirements
 - Tensorflow >= 1.7 (it is recommended to use the version with GPU support)
 - Keras >= 2.1
@@ -32,14 +40,14 @@ The conda environment file or requirements provide the full list of packages
 ## Trained models 
 
 ### Image classification
-- Download the cats and dogs classification [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.1/cats_dogs_large_weights.h5) and place them in Models/cats_and_dogs_large/final 
-- Download the cats and dogs classification small [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.1/cats_dogs_small_weights.h5) and place them in Models/cats_and_dogs_small/final 
-- Download the cats and dogs classification small augmented [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.1/cats_dogs_small_augmented_weights.h5) and place them in Models/cats_and_dogs_small_augmented/final
-- Download the abstract classification [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.1/abstract_classification_weights.h5) and place them in Models/abstract_classification/final
+- Download the cats and dogs classification [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.2/cats_dogs_large_weights.h5) and place them in Models/cats_and_dogs_large/final 
+- Download the cats and dogs classification small [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.2/cats_dogs_small_weights.h5) and place them in Models/cats_and_dogs_small/final 
+- Download the cats and dogs classification small augmented [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.2/cats_dogs_small_augmented_weights.h5) and place them in Models/cats_and_dogs_small_augmented/final
+- Download the abstract classification [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.2/abstract_classification_weights.h5) and place them in Models/abstract_classification/final
 ### Image captioning
-- Download the image captioning [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.1/image_caption_flick8k_06.05.h5) and place them in Models/abstract_classification/final
+- Download the image captioning [weights](https://github.com/raducrs/Applications-of-Deep-Learning/releases/download/0.2/image_caption_flick8k_09.05.h5) and place them in Models/abstract_classification/final
 ### Pickle files
-- You can also download the pickle files from the [release distribution](https://github.com/raducrs/Applications-of-Deep-Learning/releases/tag/0.1) and place them in the appropiate folder as needed or regenerate them by running the code
+- You can also download the pickle files from the [release distribution](https://github.com/raducrs/Applications-of-Deep-Learning/releases/tag/0.2) and place them in the appropiate folder as needed or regenerate them by running the code
 
 ## Test files
 ### Image classification
